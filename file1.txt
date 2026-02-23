@@ -1,4 +1,2 @@
 Ini baris pertama
-exit
-ex;
-
+ini baris kedua
