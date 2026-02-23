@@ -1,0 +1,4 @@
+Ini baris pertama
+exit
+ex;
+
